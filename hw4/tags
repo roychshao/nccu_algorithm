@@ -1,0 +1,26 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+arr	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^wood* arr;$/;"	v	language:C++	typeref:typename:wood *
+BFS	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^int BFS(int start_wood) {$/;"	f	language:C++	typeref:typename:int
+clear	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^void clear(pair* queue) {$/;"	f	language:C++	typeref:typename:void
+empty	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^bool empty(pair* queue) {$/;"	f	language:C++	typeref:typename:bool
+end	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^    int end;$/;"	m	language:C++	struct:wood_t	typeref:typename:int	file:
+first_wood	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^int first_wood;$/;"	v	language:C++	typeref:typename:int
+front	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^pair front(pair* queue) {$/;"	f	language:C++	typeref:typename:pair
+intersect	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^bool intersect(int i, int j) {$/;"	f	language:C++	typeref:typename:bool
+intersection	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^bool intersection[1005][1005];$/;"	v	language:C++	typeref:typename:bool[1005][1005]
+last_wood	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^int last_wood;$/;"	v	language:C++	typeref:typename:int
+main	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^int main() {$/;"	f	language:C++	typeref:typename:int
+order	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^    int order;$/;"	m	language:C++	struct:pair_t	typeref:typename:int	file:
+pair	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^} pair;$/;"	t	language:C++	typeref:struct:pair_t	file:
+pair_t	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^typedef struct pair_t {$/;"	s	language:C++	file:
+pop	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^void pop(pair* queue) {$/;"	f	language:C++	typeref:typename:void
+printQueue	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^void printQueue() {$/;"	f	language:C++	typeref:typename:void
+push	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^void push(pair* queue, int num, int steps) {$/;"	f	language:C++	typeref:typename:void
+queue	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^pair* queue;$/;"	v	language:C++	typeref:typename:pair *
+queue_head	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^int queue_head = 0;$/;"	v	language:C++	typeref:typename:int
+queue_tail	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^int queue_tail = 0;$/;"	v	language:C++	typeref:typename:int
+start	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^    int start;$/;"	m	language:C++	struct:wood_t	typeref:typename:int	file:
+step	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^    int step;$/;"	m	language:C++	struct:pair_t	typeref:typename:int	file:
+wood	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^} wood;$/;"	t	language:C++	typeref:struct:wood_t	file:
+wood_num	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^int wood_num;$/;"	v	language:C++	typeref:typename:int
+wood_t	/home/roy/codes/nccu_algorithm/hw4/mario_jump.c	/^typedef struct wood_t {$/;"	s	language:C++	file:

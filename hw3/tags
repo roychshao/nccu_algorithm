@@ -1,0 +1,10 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+area	/home/roy/codes/nccu_algorithm/hw3/mario_mining.c	/^int area = 0;$/;"	v	language:C++	typeref:typename:int
+dfs	/home/roy/codes/nccu_algorithm/hw3/mario_mining.c	/^void dfs(int i, int j, int** map, int target) {$/;"	f	language:C++	typeref:typename:void
+dfs	/home/roy/codes/nccu_algorithm/hw3/mario_mining.c	/^void dfs(int i, int j, int** map, int target);$/;"	p	language:C++	typeref:typename:void	file:
+m	/home/roy/codes/nccu_algorithm/hw3/mario_mining.c	/^int n = 0, m = 0;$/;"	v	language:C++	typeref:typename:int
+main	/home/roy/codes/nccu_algorithm/hw3/mario_mining.c	/^int main() {$/;"	f	language:C++	typeref:typename:int
+max	/home/roy/codes/nccu_algorithm/hw3/mario_mining.c	/^#define max(/;"	d	language:C++	file:
+maxArea0	/home/roy/codes/nccu_algorithm/hw3/mario_mining.c	/^int maxArea0 = 0;$/;"	v	language:C++	typeref:typename:int
+maxArea1	/home/roy/codes/nccu_algorithm/hw3/mario_mining.c	/^int maxArea1 = 0;$/;"	v	language:C++	typeref:typename:int
+n	/home/roy/codes/nccu_algorithm/hw3/mario_mining.c	/^int n = 0, m = 0;$/;"	v	language:C++	typeref:typename:int

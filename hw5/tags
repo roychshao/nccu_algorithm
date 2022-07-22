@@ -1,0 +1,43 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+allVisited	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^bool allVisited() {$/;"	f	language:C++	typeref:typename:bool
+BUS	/home/roy/codes/nccu_algorithm/hw5/copy.c	/^#define BUS /;"	d	language:C++	file:
+BUS	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^#define BUS /;"	d	language:C++	file:
+decreaseKey	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^void decreaseKey(Station* node, int dis) {$/;"	f	language:C++	typeref:typename:void
+dijkstra	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^int dijkstra(int begin, int end) {$/;"	f	language:C++	typeref:typename:int
+dis	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int dis;$/;"	m	language:C++	struct:StaDis_t	typeref:typename:int	file:
+distance	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^StaDis distance[1000050];$/;"	v	language:C++	typeref:typename:StaDis[1000050]
+Edge	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^} Edge;$/;"	t	language:C++	typeref:struct:Edge_t	file:
+Edge_t	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^typedef struct Edge_t {$/;"	s	language:C++	file:
+extractMin	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^int extractMin() {$/;"	f	language:C++	typeref:typename:int
+father	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int father;$/;"	m	language:C++	struct:Station_t	typeref:typename:int	file:
+from	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int from;$/;"	m	language:C++	struct:Edge_t	typeref:typename:int	file:
+line	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int line;$/;"	m	language:C++	struct:Edge_t	typeref:typename:int	file:
+line	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int line;$/;"	m	language:C++	struct:Station_t	typeref:typename:int	file:
+main	/home/roy/codes/nccu_algorithm/hw5/copy.c	/^int main() {$/;"	f	language:C++	typeref:typename:int
+main	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^int main() {$/;"	f	language:C++	typeref:typename:int
+MAX_TIME	/home/roy/codes/nccu_algorithm/hw5/copy.c	/^#define MAX_TIME /;"	d	language:C++	file:
+MAX_TIME	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^#define MAX_TIME /;"	d	language:C++	file:
+min	/home/roy/codes/nccu_algorithm/hw5/copy.c	/^#define min(/;"	d	language:C++	file:
+min	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^#define min(/;"	d	language:C++	file:
+MRT	/home/roy/codes/nccu_algorithm/hw5/copy.c	/^#define MRT /;"	d	language:C++	file:
+MRT	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^#define MRT /;"	d	language:C++	file:
+next	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    struct Edge_t* next;$/;"	m	language:C++	struct:Edge_t	typeref:struct:Edge_t *	file:
+nexts	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    Edge* nexts;$/;"	m	language:C++	struct:Station_t	typeref:typename:Edge *	file:
+order	/home/roy/codes/nccu_algorithm/hw5/copy.c	/^    int order;$/;"	m	language:C++	struct:station_t	typeref:typename:int	file:
+order	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int order;$/;"	m	language:C++	struct:Station_t	typeref:typename:int	file:
+pushEdge	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^void pushEdge(Station* node) {$/;"	f	language:C++	typeref:typename:void
+StaDis	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^} StaDis;$/;"	t	language:C++	typeref:struct:StaDis_t	file:
+StaDis_t	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^typedef struct StaDis_t {$/;"	s	language:C++	file:
+staidx	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^int staidx = 0;$/;"	v	language:C++	typeref:typename:int
+station	/home/roy/codes/nccu_algorithm/hw5/copy.c	/^} station;$/;"	t	language:C++	typeref:struct:station_t	file:
+station	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    Station* station;$/;"	m	language:C++	struct:StaDis_t	typeref:typename:Station *	file:
+Station	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^} Station;$/;"	t	language:C++	typeref:struct:Station_t	file:
+station_num	/home/roy/codes/nccu_algorithm/hw5/copy.c	/^#define station_num /;"	d	language:C++	file:
+station_num	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^#define station_num /;"	d	language:C++	file:
+station_t	/home/roy/codes/nccu_algorithm/hw5/copy.c	/^typedef struct station_t {$/;"	s	language:C++	file:
+Station_t	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^typedef struct Station_t {$/;"	s	language:C++	file:
+time	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int time;$/;"	m	language:C++	struct:Edge_t	typeref:typename:int	file:
+to	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int to;$/;"	m	language:C++	struct:Edge_t	typeref:typename:int	file:
+type	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int type;$/;"	m	language:C++	struct:Edge_t	typeref:typename:int	file:
+type	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^    int type;$/;"	m	language:C++	struct:Station_t	typeref:typename:int	file:
+visited	/home/roy/codes/nccu_algorithm/hw5/mario_ride.c	/^bool visited[1000050] = { false };$/;"	v	language:C++	typeref:typename:bool[1000050]
